@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/30 18:56:27.000.177,=\\GalaxyNAS\KettlerHome\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/30 19:03:20.000.198,\\GalaxyNAS\KettlerHome\Projects\Project1.dproj=\\GalaxyNAS\KettlerHome\Projects\Demo.dproj</Transaction>
+    <Transaction>2021/05/30 19:05:08.000.012,\\GalaxyNAS\KettlerHome\Projects\Unit1.dfm=\\GalaxyNAS\KettlerHome\Projects\Demo.dfm</Transaction>
+    <Transaction>2021/05/30 19:05:08.000.012,\\GalaxyNAS\KettlerHome\Projects\Unit1.pas=\\GalaxyNAS\KettlerHome\Projects\Demo.pas</Transaction>
+    <Transaction>2021/05/30 19:05:20.000.546,\\GalaxyNAS\KettlerHome\Projects\Demo.dproj=\\GalaxyNAS\KettlerHome\Projects\DemoProject.dproj</Transaction>
+    <Transaction>2021/05/31 20:01:37.892,\\GalaxyNAS\Git\demo\DemoProject.dproj=\\GalaxyNAS\KettlerHome\Projects\DemoProject.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
